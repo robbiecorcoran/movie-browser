@@ -1,2 +1,2 @@
 # movie-browser
-Created with CodeSandbox
+A simple mvoie browser using React and APIs
