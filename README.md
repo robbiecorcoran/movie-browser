@@ -1,2 +1,2 @@
 # movie-browser
-A simple mvoie browser using React and APIs
+A simple movie browser using React and APIs
